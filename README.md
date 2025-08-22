@@ -59,4 +59,3 @@ This project, created using IntelliJ IDEA Ultimate Edition with GlassFish 7.0.5 
 13. **Database Schema**
     ![image](https://github.com/auriorajaa/simple-streaming-web-with-java/assets/108510729/2e52e2d0-0045-44c5-87ac-35e337aa20ab)
 
-Feel free to explore the code, customize it to your liking, and enhance its features. As you embark on this coding journey, may your creativity flow, and your projects flourish. Happy coding! 🚀
